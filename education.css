@@ -1,0 +1,30 @@
+
+body{
+	background-color: lightgray;
+}
+
+
+.div2{
+	width: 100%;
+height: auto;
+background: lightgray;   
+
+}
+
+.table{
+height: auto;
+width: 100%;
+display: ;
+display: flex;
+justify-content: center;
+font-size: 36px;
+color: black;
+}
+h1{
+	text-align: center;
+	color:orange;
+	font-family: Arial Black;
+}
+div{
+	background-color: lightgray;
+}
